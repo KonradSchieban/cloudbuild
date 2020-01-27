@@ -1,0 +1,9 @@
+steps:
+- id: 'Test'
+  name: 'Test'
+  entrypoint: 'sh'
+
+  args:
+  - '-c'
+  - |
+      echo "Hello"
