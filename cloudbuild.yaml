@@ -6,4 +6,4 @@ steps:
   args:
   - '-c'
   - |
-      echo "Hello"
+      exit 0
