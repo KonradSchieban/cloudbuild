@@ -1,6 +1,6 @@
 steps:
 - id: 'Test'
-  name: 'Test'
+  name: 'alpine:latest'
   entrypoint: 'sh'
 
   args:
